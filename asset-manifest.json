@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/front_end_training/static/css/main.66bf7af5.css",
-    "main.js": "/front_end_training/static/js/main.7ba2af09.js",
+    "main.js": "/front_end_training/static/js/main.ad3a6e59.js",
     "static/media/Rectangle 82.svg": "/front_end_training/static/media/Rectangle 82.c716c7458ec647d718db.svg",
     "static/media/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers (1).png": "/front_end_training/static/media/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers (1).c13d1a92ec792ae556e4.png",
     "static/media/analog-landscape-city-with-buildings.png": "/front_end_training/static/media/analog-landscape-city-with-buildings.007237e197e0bed88283.png",
     "index.html": "/front_end_training/index.html",
     "main.66bf7af5.css.map": "/front_end_training/static/css/main.66bf7af5.css.map",
-    "main.7ba2af09.js.map": "/front_end_training/static/js/main.7ba2af09.js.map"
+    "main.ad3a6e59.js.map": "/front_end_training/static/js/main.ad3a6e59.js.map"
   },
   "entrypoints": [
     "static/css/main.66bf7af5.css",
-    "static/js/main.7ba2af09.js"
+    "static/js/main.ad3a6e59.js"
   ]
 }
