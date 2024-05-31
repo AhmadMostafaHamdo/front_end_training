@@ -11,8 +11,7 @@ export default function App() {
   return (
        <Routes>
         <Route path='/verfiy' element={<Verfiy/>}/>
-        <Route path='/' element={<Init/>}/>
-        <Route path='/' element={<Init/>}>
+        <Route path='/front_end_training' element={<Init/>}>
          <Route path='login' element={<Login/>}/>
          <Route path='logout' element={<Logout/>}/>
          <Route path='register' element={<Register/>}/>

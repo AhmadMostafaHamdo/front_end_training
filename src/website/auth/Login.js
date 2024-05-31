@@ -13,7 +13,7 @@ export default function Login() {
     }
     function handelForm() {
         window.localStorage.setItem('btnAuth',"تسجيل الخروج");
-        window.location.pathname = '/';
+        window.location.pathname = '/front_end_training';
         
     }
     return <div className='opacity'>

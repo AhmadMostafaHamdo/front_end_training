@@ -11,14 +11,14 @@ export default function Logout () {
                     onClick={
                         ()=> {
                             window.localStorage.setItem('btnAuth', "تسجيل الدخول")
-                            window.location.pathname = '/'
+                            window.location.pathname = '/front_end_training'
                         }
                     }
                     >تأكيد</button></Link>
                     <Link ><button className='cancel'
                     onClick={
                         ()=> {
-                            window.location.pathname = '/'
+                            window.location.pathname = '/front_end_training'
                         }
                     }
                     >تراجع</button></Link>
